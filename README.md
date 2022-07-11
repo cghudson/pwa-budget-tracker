@@ -24,7 +24,7 @@ SO THAT my account balance is accurate when I am traveling
 
 The following images demonstrate the Budget Tracker's appearance and functionality:
 
-![image of homepage](./assets/images/preview.jpg)
+![image of homepage](./assets/preview.jpg)
 
 ## Deployed Application
 
