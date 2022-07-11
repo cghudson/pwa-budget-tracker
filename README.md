@@ -28,7 +28,7 @@ The following images demonstrate the Budget Tracker's appearance and functionali
 
 ## Deployed Application
 
-Click [here](https://pacific-dusk-73335.herokuapp.com/) to view the deployed applicaiton on Heroku.
+Click [here](https://fathomless-plains-38746.herokuapp.com/) to view the deployed applicaiton on Heroku.
 
 ## Questions
 
